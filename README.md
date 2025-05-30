@@ -22,7 +22,7 @@ CSS3 (Flexbox, custom styling)
 
 📂 How to Run
 Clone the repo
-git clone https://github.com/yourusername/ecommerce-site.git
+git clone https://github.com/lavish-0099/ecommerce-site.git
 
 Open index.html in your browser
 
